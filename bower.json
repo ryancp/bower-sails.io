@@ -1,0 +1,21 @@
+{
+  "name": "bower-sails.io",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ryancp/bower-sails.io",
+  "description": "sails.io for bower",
+  "main": "sails.io.js",
+  "keywords": [
+    "sails.io",
+    "sails.js",
+    "socket.io"
+  ],
+  "authors": [
+    "Sails.js team"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
